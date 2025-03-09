@@ -1,0 +1,8 @@
+# Face-Eye-Detection
+This is basically an implementation of a Face and Eye Detection using Opencv Default Haar Cascade .
+
+Required Modules :
+Numpy
+  pip install numpy
+Opencv
+  pip install opencv-python
